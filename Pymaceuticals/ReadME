@@ -1,1 +1,13 @@
+PyMaceuticals Analysis
 
+This project analyzes the effectiveness of several drug regimens on tumor growth in mice. 
+The dataset used contains information about mouse treatments, tumor volumes, and weight over time.
+The analysis includes several key tasks such as generating plots to visualize the effects of different treatments, calculating averages, and filtering data.
+
+Sources of Guidance
+Professor's Office Hours:
+Much of the code was developed with guidance from the instructor during in-class office hours. The professor answered questions regarding the homework and helped address various coding errors related to data processing, plotting, and grouping.
+
+XpertLearning:
+XpertLearning was a valuable resource for resolving additional issues encountered while generating graphs and addressing specific errors related to plot generation.
+XpertLearning tutorials and examples were particularly helpful in identifying mistakes with axis limits and column aggregation.
